@@ -9,3 +9,5 @@ function findVowel(name: string): void{
     }
 }
 findVowel("FASCINATING")
+
+
